@@ -26,4 +26,8 @@ def potencia(a: float, b: float) -> float:
     #Calcula a elevado a la b
     return a**b
 
+def cubo(numero: float) -> float:
+    #Eleva un número al cubo.
+
+    return numero ** 3
 
